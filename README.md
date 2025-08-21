@@ -33,12 +33,20 @@ In order to run this SUMO simulation, following files are required:
  
  All the outputs are generated as an .XML files in the folder "outputs/". This will be created if does not exists. 
 
+## Processing Data
+All the .XML files for both FCD and FD data are processed using the functions provided in the python scripts - fcd_data.py and fd_data.py. The functions process the XML and converts them into either "feather" or "csv" format for later data analysis
+
+## Data Analysis Streamlit Dashboard
+There is also a dashboard to anlyze some of the data from the simulation.
+![Dashboard](images/dashboard.png)
+
 
 ## Research
 This repo is part of the research conducted at the Division of Transport and System Analysis at KTH.
 
  - Tanay Rastogi, Michele D. Simoni and Anders Karlström; *Model-based traffic state estimation using camera-equipped probe vehicles* (2025).
 
+*DRAFT version of the paper is avialable in the GITHUB under "article/"*
 
 ### Acknowledgements
 The work is derived and based on the code provided by the following research: 

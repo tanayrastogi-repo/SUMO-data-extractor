@@ -1,0 +1,15 @@
+{
+    "N_LANES"           : 1,
+    "ROAD_LENGTH"       : 430,
+    "DETECTION_LANE"    : ["-816623833#4.11_0"],
+    "PROBE_LANE"        : ["816623833#4_0", "816623833#4_1"],
+    "TOT_PROBE_RUNS"    : 14815,
+    "PENERATION_RATE"   : 0.3,
+    "SSteps"            : [43, 86], 
+    "VF"                : 42,
+    "RHO_C"             : 44,
+    "DELTAX"            : 86,
+    "DELTAT"            : 3,
+    "ESTIM_VF"          : 46.551,
+    "ESTIM_RHO_C"       : 55.717
+}
