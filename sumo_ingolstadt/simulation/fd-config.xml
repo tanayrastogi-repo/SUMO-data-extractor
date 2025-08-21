@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <edgeData  id="myEdgeData" freq="2" file="output/fd-2sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="3" file="output/fd-3sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="4" file="output/fd-4sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="5" file="output/fd-5sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="6" file="output/fd-6sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="7" file="output/fd-7sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+    <edgeData  id="myEdgeData" freq="8" file="output/fd-8sec.xml" edges="-816623833#4.11" excludeEmpty="False"/>
+</additional>
